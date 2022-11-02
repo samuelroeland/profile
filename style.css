@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+  margin:20px;
+  text-align: center;
+}
+
+div {
+  padding: 50px;
+}
+
+.white-card{
+  border:0.5px solid;
+  border-color: lightblue;
+  box-shadow: 5px, 10px;
+  border-radius: 15px;
+  margin:10px;
+  background-color: antiquewhite;
+}
+
+#github-page{
+  background-color: blue;
+  border: 1px solid;
+  color:white;
+  padding:10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+#github-page:hover {
+  background-color: rgb(70, 70, 239);
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 0px 20px
+}
